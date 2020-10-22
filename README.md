@@ -1,2 +1,2 @@
-#Scripts do Project Circus (Nome não definido)
+Scripts do Project Circus (Nome não definido)
 ----------------------------------------------
